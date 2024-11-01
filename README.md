@@ -7,9 +7,9 @@ Just a simple console based wordcounter.
 
 Upon execution the program will ask you for a text input.
 After you have provided your string it will:
-  -read it back to you
-  -tell you the number of characters in the string
-  -tell you the number of words in the string
+  - read it back to you
+  - tell you the number of characters in the string
+  - tell you the number of words in the string
 
 ### How does it work?
 
